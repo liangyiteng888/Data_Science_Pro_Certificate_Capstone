@@ -1,57 +1,57 @@
-,Postcode,Borough,Region
-0,N2A,KWC,Kitchener  East
-1,N2V,KWC,Waterloo  Northwest
-2,N2T,KWC,Waterloo  Southwest
-3,N1T,KWC,Cambridge  East
-4,N1S,KWC,Cambridge  Southwest
-5,N2R,KWC,Kitchener  South
-6,N1R,KWC,Cambridge  Central
-7,N2P,KWC,Kitchener  Southeast
-8,N1P,KWC,Cambridge  South
-9,N2N,KWC,Kitchener  West
-10,N2M,KWC,Kitchener  Northwest
-11,N2K,KWC,Waterloo  East
-12,N2J,KWC,Waterloo  Southeast
-13,N3H,KWC,Cambridge  West
-14,N2H,KWC,Kitchener  North Central
-15,N2L,KWC,Waterloo  South
-16,N3C,KWC,Cambridge  Northeast
-17,N2G,KWC,Kitchener  Central
-18,N2B,KWC,Kitchener  Northeast
-19,N3E,KWC,Cambridge  Northwest
-20,N2C,KWC,Kitchener  South Central
-21,N2E,KWC,Kitchener  Southwest
-22,N5Y,London,London  (West Huron Heights / Carling )
-23,N5X,London,London  (Fanshawe / Stoneybrook / Stoney Creek / Uplands / East Masonville )
-24,N5W,London,London  East  (SW Argyle / Hamilton Road )
-25,N5V,London,London  (YXU / North and East Argyle / East Huron Heights )
-26,N6A,London,London  North  (UWO )
-27,N6B,London,London  Central
-28,N6P,London,London  (Talbot / Lambeth / West Tempo / South Sharon Creek )
-29,N6G,London,London  (Sunningdale / West Masonville / Medway / NE Hyde Park / East Fox Hollow )
-30,N6C,London,London  South  (East Highland / North White Oaks / North Westminster )
-31,N6N,London,London  (South Highbury / Glanworth / East Brockley / SE Westminster )
-32,N5Z,London,London  (Glen Cairn )
-33,N6M,London,London  (Jackson / Old Victoria / Bradley / North Highbury )
-34,N6L,London,London  (East Tempo )
-35,N6H,London,London  West  (Central Hyde Park / Oakridge )
-36,N6K,London,London  (Riverbend / Woodhull / North Sharon Creek / Byron / West Westmount )
-37,N6E,London,London  (South White Oaks / Central Westminster / East Longwoods / West Brockley )
-38,N6J,London,London  (Southcrest / East Westmount / West Highland )
-39,N8N,Windsor,Tecumseh  Outskirts (Windsor )
-40,N9E,Windsor,Windsor  South  (East Malden )
-41,N8X,Windsor,Windsor  South Central  (West Walkerville / Remington Park )
-42,N8W,Windsor,Windsor  (South Walkerville / West Fontainbleu / Walker Farm / Devonshire )
-43,N9H,Windsor,LaSalle  East (Windsor )
-44,N8V,Windsor,Windsor  (YQG )
-45,N9A,Windsor,Windsor  (City Centre / NW Walkerville )
-46,N9C,Windsor,Windsor  (Sandwich / Ojibway / West Malden )
-47,N9J,Windsor,La Salle  West (Windsor )
-48,N8S,Windsor,Windsor  (Riverside )
-49,N8R,Windsor,Windsor  (East Forest Glade )
-50,N9B,Windsor,Windsor  (University / South Cameron )
-51,N9K,Windsor,Windsor
-52,N8P,Windsor,Windsor  (East Riverside )
-53,N8Y,Windsor,Windsor  East (East Walkerville )
-54,N8T,Windsor,Windsor  (West Forest Glade / East Fontainbleu )
-55,N9G,Windsor,Windsor  (Roseland )
+,Postcode,Borough,Neighborhood,Latitude,Longitude
+0,N2A,KWC,Kitchener  East,43.4413,-80.4246
+1,N2V,KWC,Waterloo  Northwest,43.4764,-80.5842
+2,N2T,KWC,Waterloo  Southwest,43.453,-80.5692
+3,N1T,KWC,Cambridge  East,43.3849,-80.2833
+4,N1S,KWC,Cambridge  Southwest,43.3592,-80.3347
+5,N2R,KWC,Kitchener  South,43.3849,-80.487
+6,N1R,KWC,Cambridge  Central,43.3666,-80.2239
+7,N2P,KWC,Kitchener  Southeast,43.3878,-80.4296
+8,N1P,KWC,Cambridge  South,43.3398,-80.2955
+9,N2N,KWC,Kitchener  West,43.426,-80.5438
+10,N2M,KWC,Kitchener  Northwest,43.4363,-80.5093
+11,N2K,KWC,Waterloo  East,43.4961,-80.4936
+12,N2J,KWC,Waterloo  Southeast,43.504,-80.5366
+13,N3H,KWC,Cambridge  West,43.4267,-80.3699
+14,N2H,KWC,Kitchener  North Central,43.4581,-80.4818
+15,N2L,KWC,Waterloo  South,43.4715,-80.5454
+16,N3C,KWC,Cambridge  Northeast,43.4389,-80.2649
+17,N2G,KWC,Kitchener  Central,43.4443,-80.4891
+18,N2B,KWC,Kitchener  Northeast,43.4646,-80.4467
+19,N3E,KWC,Cambridge  Northwest,43.4193,-80.3505
+20,N2C,KWC,Kitchener  South Central,43.4182,-80.4451
+21,N2E,KWC,Kitchener  Southwest,43.4106,-80.5011
+22,N5Y,London,London  (West Huron Heights / Carling ),43.0123,-81.2307
+23,N5X,London,London  (Fanshawe / Stoneybrook / Stoney Creek / Uplands / East Masonville ),43.0443,-81.2391
+24,N5W,London,London  East  (SW Argyle / Hamilton Road ),42.9856,-81.1821
+25,N5V,London,London  (YXU / North and East Argyle / East Huron Heights ),43.0233,-81.1643
+26,N6A,London,London  North  (UWO ),42.9976,-81.2563
+27,N6B,London,London  Central,42.9835,-81.2386
+28,N6P,London,London  (Talbot / Lambeth / West Tempo / South Sharon Creek ),42.8909,-81.3236
+29,N6G,London,London  (Sunningdale / West Masonville / Medway / NE Hyde Park / East Fox Hollow ),43.0147,-81.3049
+30,N6C,London,London  South  (East Highland / North White Oaks / North Westminster ),42.9582,-81.238
+31,N6N,London,London  (South Highbury / Glanworth / East Brockley / SE Westminster ),42.8997,-81.1592
+32,N5Z,London,London  (Glen Cairn ),42.966,-81.2053
+33,N6M,London,London  (Jackson / Old Victoria / Bradley / North Highbury ),42.9632,-81.1392
+34,N6L,London,London  (East Tempo ),42.8719,-81.2472
+35,N6H,London,London  West  (Central Hyde Park / Oakridge ),42.9915,-81.3402
+36,N6K,London,London  (Riverbend / Woodhull / North Sharon Creek / Byron / West Westmount ),42.9536,-81.3418
+37,N6E,London,London  (South White Oaks / Central Westminster / East Longwoods / West Brockley ),42.9185,-81.2244
+38,N6J,London,London  (Southcrest / East Westmount / West Highland ),42.9546,-81.2735
+39,N8N,Windsor,Tecumseh  Outskirts (Windsor ),42.2946,-82.8667
+40,N9E,Windsor,Windsor  South  (East Malden ),42.2652,-83.0314
+41,N8X,Windsor,Windsor  South Central  (West Walkerville / Remington Park ),42.2926,-83.0186
+42,N8W,Windsor,Windsor  (South Walkerville / West Fontainbleu / Walker Farm / Devonshire ),42.2836,-82.9771
+43,N9H,Windsor,LaSalle  East (Windsor ),42.2318,-83.0281
+44,N8V,Windsor,Windsor  (YQG ),42.2773,-82.9447
+45,N9A,Windsor,Windsor  (City Centre / NW Walkerville ),42.2007,-83.0276
+46,N9C,Windsor,Windsor  (Sandwich / Ojibway / West Malden ),42.2767,-83.0793
+47,N9J,Windsor,La Salle  West (Windsor ),42.2187,-83.0801
+48,N8S,Windsor,Windsor  (Riverside ),42.3283,-82.9472
+49,N8R,Windsor,Windsor  (East Forest Glade ),42.3067,-82.915
+50,N9B,Windsor,Windsor  (University / South Cameron ),42.2949,-83.052
+51,N9K,Windsor,Windsor,42.2978,-82.8701
+52,N8P,Windsor,Windsor  (East Riverside ),42.3276,-82.9104
+53,N8Y,Windsor,Windsor  East (East Walkerville ),42.3176,-82.9929
+54,N8T,Windsor,Windsor  (West Forest Glade / East Fontainbleu ),42.3037,-82.9459
+55,N9G,Windsor,Windsor  (Roseland ),42.2481,-82.9952
